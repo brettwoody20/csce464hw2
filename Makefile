@@ -1,4 +1,3 @@
-HEADERS=log.h mptcp_util.h
 
 default: all
 
